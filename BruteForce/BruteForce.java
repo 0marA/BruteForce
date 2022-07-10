@@ -1,3 +1,5 @@
+package BruteForce;
+
 public class BruteForce {
     public static final String wordToGuess ="rgpwjFUCiu6Pbd";
     public static String word = "";
