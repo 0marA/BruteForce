@@ -11,1005 +11,1522 @@ public class EvenOrOdd {
     }
 
     public static void calculator(int num) {
-        if (num == 0) System.out.println("Even");
-        else if (num == 1) System.out.println("Odd");
-        else if (num == 2) System.out.println("Even");
-        else if (num == 3) System.out.println("Odd");
-        else if (num == 4) System.out.println("Even");
-        else if (num == 5) System.out.println("Odd");
-        else if (num == 6) System.out.println("Even");
-        else if (num == 7) System.out.println("Odd");
-        else if (num == 8) System.out.println("Even");
-        else if (num == 9) System.out.println("Odd");
-        else if (num == 10) System.out.println("Even");
-        else if (num == 11) System.out.println("Odd");
-        else if (num == 12) System.out.println("Even");
-        else if (num == 13) System.out.println("Odd");
-        else if (num == 14) System.out.println("Even");
-        else if (num == 15) System.out.println("Odd");
-        else if (num == 16) System.out.println("Even");
-        else if (num == 17) System.out.println("Odd");
-        else if (num == 18) System.out.println("Even");
-        else if (num == 19) System.out.println("Odd");
-        else if (num == 20) System.out.println("Even");
-        else if (num == 21) System.out.println("Odd");
-        else if (num == 22) System.out.println("Even");
-        else if (num == 23) System.out.println("Odd");
-        else if (num == 24) System.out.println("Even");
-        else if (num == 25) System.out.println("Odd");
-        else if (num == 26) System.out.println("Even");
-        else if (num == 27) System.out.println("Odd");
-        else if (num == 28) System.out.println("Even");
-        else if (num == 29) System.out.println("Odd");
-        else if (num == 30) System.out.println("Even");
-        else if (num == 31) System.out.println("Odd");
-        else if (num == 32) System.out.println("Even");
-        else if (num == 33) System.out.println("Odd");
-        else if (num == 34) System.out.println("Even");
-        else if (num == 35) System.out.println("Odd");
-        else if (num == 36) System.out.println("Even");
-        else if (num == 37) System.out.println("Odd");
-        else if (num == 38) System.out.println("Even");
-        else if (num == 39) System.out.println("Odd");
-        else if (num == 40) System.out.println("Even");
-        else if (num == 41) System.out.println("Odd");
-        else if (num == 42) System.out.println("Even");
-        else if (num == 43) System.out.println("Odd");
-        else if (num == 44) System.out.println("Even");
-        else if (num == 45) System.out.println("Odd");
-        else if (num == 46) System.out.println("Even");
-        else if (num == 47) System.out.println("Odd");
-        else if (num == 48) System.out.println("Even");
-        else if (num == 49) System.out.println("Odd");
-        else if (num == 50) System.out.println("Even");
-        else if (num == 51) System.out.println("Odd");
-        else if (num == 52) System.out.println("Even");
-        else if (num == 53) System.out.println("Odd");
-        else if (num == 54) System.out.println("Even");
-        else if (num == 55) System.out.println("Odd");
-        else if (num == 56) System.out.println("Even");
-        else if (num == 57) System.out.println("Odd");
-        else if (num == 58) System.out.println("Even");
-        else if (num == 59) System.out.println("Odd");
-        else if (num == 60) System.out.println("Even");
-        else if (num == 61) System.out.println("Odd");
-        else if (num == 62) System.out.println("Even");
-        else if (num == 63) System.out.println("Odd");
-        else if (num == 64) System.out.println("Even");
-        else if (num == 65) System.out.println("Odd");
-        else if (num == 66) System.out.println("Even");
-        else if (num == 67) System.out.println("Odd");
-        else if (num == 68) System.out.println("Even");
-        else if (num == 69) System.out.println("Odd");
-        else if (num == 70) System.out.println("Even");
-        else if (num == 71) System.out.println("Odd");
-        else if (num == 72) System.out.println("Even");
-        else if (num == 73) System.out.println("Odd");
-        else if (num == 74) System.out.println("Even");
-        else if (num == 75) System.out.println("Odd");
-        else if (num == 76) System.out.println("Even");
-        else if (num == 77) System.out.println("Odd");
-        else if (num == 78) System.out.println("Even");
-        else if (num == 79) System.out.println("Odd");
-        else if (num == 80) System.out.println("Even");
-        else if (num == 81) System.out.println("Odd");
-        else if (num == 82) System.out.println("Even");
-        else if (num == 83) System.out.println("Odd");
-        else if (num == 84) System.out.println("Even");
-        else if (num == 85) System.out.println("Odd");
-        else if (num == 86) System.out.println("Even");
-        else if (num == 87) System.out.println("Odd");
-        else if (num == 88) System.out.println("Even");
-        else if (num == 89) System.out.println("Odd");
-        else if (num == 90) System.out.println("Even");
-        else if (num == 91) System.out.println("Odd");
-        else if (num == 92) System.out.println("Even");
-        else if (num == 93) System.out.println("Odd");
-        else if (num == 94) System.out.println("Even");
-        else if (num == 95) System.out.println("Odd");
-        else if (num == 96) System.out.println("Even");
-        else if (num == 97) System.out.println("Odd");
-        else if (num == 98) System.out.println("Even");
-        else if (num == 99) System.out.println("Odd");
-        else if (num == 100) System.out.println("Even");
-        else if (num == 101) System.out.println("Odd");
-        else if (num == 102) System.out.println("Even");
-        else if (num == 103) System.out.println("Odd");
-        else if (num == 104) System.out.println("Even");
-        else if (num == 105) System.out.println("Odd");
-        else if (num == 106) System.out.println("Even");
-        else if (num == 107) System.out.println("Odd");
-        else if (num == 108) System.out.println("Even");
-        else if (num == 109) System.out.println("Odd");
-        else if (num == 110) System.out.println("Even");
-        else if (num == 111) System.out.println("Odd");
-        else if (num == 112) System.out.println("Even");
-        else if (num == 113) System.out.println("Odd");
-        else if (num == 114) System.out.println("Even");
-        else if (num == 115) System.out.println("Odd");
-        else if (num == 116) System.out.println("Even");
-        else if (num == 117) System.out.println("Odd");
-        else if (num == 118) System.out.println("Even");
-        else if (num == 119) System.out.println("Odd");
-        else if (num == 120) System.out.println("Even");
-        else if (num == 121) System.out.println("Odd");
-        else if (num == 122) System.out.println("Even");
-        else if (num == 123) System.out.println("Odd");
-        else if (num == 124) System.out.println("Even");
-        else if (num == 125) System.out.println("Odd");
-        else if (num == 126) System.out.println("Even");
-        else if (num == 127) System.out.println("Odd");
-        else if (num == 128) System.out.println("Even");
-        else if (num == 129) System.out.println("Odd");
-        else if (num == 130) System.out.println("Even");
-        else if (num == 131) System.out.println("Odd");
-        else if (num == 132) System.out.println("Even");
-        else if (num == 133) System.out.println("Odd");
-        else if (num == 134) System.out.println("Even");
-        else if (num == 135) System.out.println("Odd");
-        else if (num == 136) System.out.println("Even");
-        else if (num == 137) System.out.println("Odd");
-        else if (num == 138) System.out.println("Even");
-        else if (num == 139) System.out.println("Odd");
-        else if (num == 140) System.out.println("Even");
-        else if (num == 141) System.out.println("Odd");
-        else if (num == 142) System.out.println("Even");
-        else if (num == 143) System.out.println("Odd");
-        else if (num == 144) System.out.println("Even");
-        else if (num == 145) System.out.println("Odd");
-        else if (num == 146) System.out.println("Even");
-        else if (num == 147) System.out.println("Odd");
-        else if (num == 148) System.out.println("Even");
-        else if (num == 149) System.out.println("Odd");
-        else if (num == 150) System.out.println("Even");
-        else if (num == 151) System.out.println("Odd");
-        else if (num == 152) System.out.println("Even");
-        else if (num == 153) System.out.println("Odd");
-        else if (num == 154) System.out.println("Even");
-        else if (num == 155) System.out.println("Odd");
-        else if (num == 156) System.out.println("Even");
-        else if (num == 157) System.out.println("Odd");
-        else if (num == 158) System.out.println("Even");
-        else if (num == 159) System.out.println("Odd");
-        else if (num == 160) System.out.println("Even");
-        else if (num == 161) System.out.println("Odd");
-        else if (num == 162) System.out.println("Even");
-        else if (num == 163) System.out.println("Odd");
-        else if (num == 164) System.out.println("Even");
-        else if (num == 165) System.out.println("Odd");
-        else if (num == 166) System.out.println("Even");
-        else if (num == 167) System.out.println("Odd");
-        else if (num == 168) System.out.println("Even");
-        else if (num == 169) System.out.println("Odd");
-        else if (num == 170) System.out.println("Even");
-        else if (num == 171) System.out.println("Odd");
-        else if (num == 172) System.out.println("Even");
-        else if (num == 173) System.out.println("Odd");
-        else if (num == 174) System.out.println("Even");
-        else if (num == 175) System.out.println("Odd");
-        else if (num == 176) System.out.println("Even");
-        else if (num == 177) System.out.println("Odd");
-        else if (num == 178) System.out.println("Even");
-        else if (num == 179) System.out.println("Odd");
-        else if (num == 180) System.out.println("Even");
-        else if (num == 181) System.out.println("Odd");
-        else if (num == 182) System.out.println("Even");
-        else if (num == 183) System.out.println("Odd");
-        else if (num == 184) System.out.println("Even");
-        else if (num == 185) System.out.println("Odd");
-        else if (num == 186) System.out.println("Even");
-        else if (num == 187) System.out.println("Odd");
-        else if (num == 188) System.out.println("Even");
-        else if (num == 189) System.out.println("Odd");
-        else if (num == 190) System.out.println("Even");
-        else if (num == 191) System.out.println("Odd");
-        else if (num == 192) System.out.println("Even");
-        else if (num == 193) System.out.println("Odd");
-        else if (num == 194) System.out.println("Even");
-        else if (num == 195) System.out.println("Odd");
-        else if (num == 196) System.out.println("Even");
-        else if (num == 197) System.out.println("Odd");
-        else if (num == 198) System.out.println("Even");
-        else if (num == 199) System.out.println("Odd");
-        else if (num == 200) System.out.println("Even");
-        else if (num == 201) System.out.println("Odd");
-        else if (num == 202) System.out.println("Even");
-        else if (num == 203) System.out.println("Odd");
-        else if (num == 204) System.out.println("Even");
-        else if (num == 205) System.out.println("Odd");
-        else if (num == 206) System.out.println("Even");
-        else if (num == 207) System.out.println("Odd");
-        else if (num == 208) System.out.println("Even");
-        else if (num == 209) System.out.println("Odd");
-        else if (num == 210) System.out.println("Even");
-        else if (num == 211) System.out.println("Odd");
-        else if (num == 212) System.out.println("Even");
-        else if (num == 213) System.out.println("Odd");
-        else if (num == 214) System.out.println("Even");
-        else if (num == 215) System.out.println("Odd");
-        else if (num == 216) System.out.println("Even");
-        else if (num == 217) System.out.println("Odd");
-        else if (num == 218) System.out.println("Even");
-        else if (num == 219) System.out.println("Odd");
-        else if (num == 220) System.out.println("Even");
-        else if (num == 221) System.out.println("Odd");
-        else if (num == 222) System.out.println("Even");
-        else if (num == 223) System.out.println("Odd");
-        else if (num == 224) System.out.println("Even");
-        else if (num == 225) System.out.println("Odd");
-        else if (num == 226) System.out.println("Even");
-        else if (num == 227) System.out.println("Odd");
-        else if (num == 228) System.out.println("Even");
-        else if (num == 229) System.out.println("Odd");
-        else if (num == 230) System.out.println("Even");
-        else if (num == 231) System.out.println("Odd");
-        else if (num == 232) System.out.println("Even");
-        else if (num == 233) System.out.println("Odd");
-        else if (num == 234) System.out.println("Even");
-        else if (num == 235) System.out.println("Odd");
-        else if (num == 236) System.out.println("Even");
-        else if (num == 237) System.out.println("Odd");
-        else if (num == 238) System.out.println("Even");
-        else if (num == 239) System.out.println("Odd");
-        else if (num == 240) System.out.println("Even");
-        else if (num == 241) System.out.println("Odd");
-        else if (num == 242) System.out.println("Even");
-        else if (num == 243) System.out.println("Odd");
-        else if (num == 244) System.out.println("Even");
-        else if (num == 245) System.out.println("Odd");
-        else if (num == 246) System.out.println("Even");
-        else if (num == 247) System.out.println("Odd");
-        else if (num == 248) System.out.println("Even");
-        else if (num == 249) System.out.println("Odd");
-        else if (num == 250) System.out.println("Even");
-        else if (num == 251) System.out.println("Odd");
-        else if (num == 252) System.out.println("Even");
-        else if (num == 253) System.out.println("Odd");
-        else if (num == 254) System.out.println("Even");
-        else if (num == 255) System.out.println("Odd");
-        else if (num == 256) System.out.println("Even");
-        else if (num == 257) System.out.println("Odd");
-        else if (num == 258) System.out.println("Even");
-        else if (num == 259) System.out.println("Odd");
-        else if (num == 260) System.out.println("Even");
-        else if (num == 261) System.out.println("Odd");
-        else if (num == 262) System.out.println("Even");
-        else if (num == 263) System.out.println("Odd");
-        else if (num == 264) System.out.println("Even");
-        else if (num == 265) System.out.println("Odd");
-        else if (num == 266) System.out.println("Even");
-        else if (num == 267) System.out.println("Odd");
-        else if (num == 268) System.out.println("Even");
-        else if (num == 269) System.out.println("Odd");
-        else if (num == 270) System.out.println("Even");
-        else if (num == 271) System.out.println("Odd");
-        else if (num == 272) System.out.println("Even");
-        else if (num == 273) System.out.println("Odd");
-        else if (num == 274) System.out.println("Even");
-        else if (num == 275) System.out.println("Odd");
-        else if (num == 276) System.out.println("Even");
-        else if (num == 277) System.out.println("Odd");
-        else if (num == 278) System.out.println("Even");
-        else if (num == 279) System.out.println("Odd");
-        else if (num == 280) System.out.println("Even");
-        else if (num == 281) System.out.println("Odd");
-        else if (num == 282) System.out.println("Even");
-        else if (num == 283) System.out.println("Odd");
-        else if (num == 284) System.out.println("Even");
-        else if (num == 285) System.out.println("Odd");
-        else if (num == 286) System.out.println("Even");
-        else if (num == 287) System.out.println("Odd");
-        else if (num == 288) System.out.println("Even");
-        else if (num == 289) System.out.println("Odd");
-        else if (num == 290) System.out.println("Even");
-        else if (num == 291) System.out.println("Odd");
-        else if (num == 292) System.out.println("Even");
-        else if (num == 293) System.out.println("Odd");
-        else if (num == 294) System.out.println("Even");
-        else if (num == 295) System.out.println("Odd");
-        else if (num == 296) System.out.println("Even");
-        else if (num == 297) System.out.println("Odd");
-        else if (num == 298) System.out.println("Even");
-        else if (num == 299) System.out.println("Odd");
-        else if (num == 300) System.out.println("Even");
-        else if (num == 301) System.out.println("Odd");
-        else if (num == 302) System.out.println("Even");
-        else if (num == 303) System.out.println("Odd");
-        else if (num == 304) System.out.println("Even");
-        else if (num == 305) System.out.println("Odd");
-        else if (num == 306) System.out.println("Even");
-        else if (num == 307) System.out.println("Odd");
-        else if (num == 308) System.out.println("Even");
-        else if (num == 309) System.out.println("Odd");
-        else if (num == 310) System.out.println("Even");
-        else if (num == 311) System.out.println("Odd");
-        else if (num == 312) System.out.println("Even");
-        else if (num == 313) System.out.println("Odd");
-        else if (num == 314) System.out.println("Even");
-        else if (num == 315) System.out.println("Odd");
-        else if (num == 316) System.out.println("Even");
-        else if (num == 317) System.out.println("Odd");
-        else if (num == 318) System.out.println("Even");
-        else if (num == 319) System.out.println("Odd");
-        else if (num == 320) System.out.println("Even");
-        else if (num == 321) System.out.println("Odd");
-        else if (num == 322) System.out.println("Even");
-        else if (num == 323) System.out.println("Odd");
-        else if (num == 324) System.out.println("Even");
-        else if (num == 325) System.out.println("Odd");
-        else if (num == 326) System.out.println("Even");
-        else if (num == 327) System.out.println("Odd");
-        else if (num == 328) System.out.println("Even");
-        else if (num == 329) System.out.println("Odd");
-        else if (num == 330) System.out.println("Even");
-        else if (num == 331) System.out.println("Odd");
-        else if (num == 332) System.out.println("Even");
-        else if (num == 333) System.out.println("Odd");
-        else if (num == 334) System.out.println("Even");
-        else if (num == 335) System.out.println("Odd");
-        else if (num == 336) System.out.println("Even");
-        else if (num == 337) System.out.println("Odd");
-        else if (num == 338) System.out.println("Even");
-        else if (num == 339) System.out.println("Odd");
-        else if (num == 340) System.out.println("Even");
-        else if (num == 341) System.out.println("Odd");
-        else if (num == 342) System.out.println("Even");
-        else if (num == 343) System.out.println("Odd");
-        else if (num == 344) System.out.println("Even");
-        else if (num == 345) System.out.println("Odd");
-        else if (num == 346) System.out.println("Even");
-        else if (num == 347) System.out.println("Odd");
-        else if (num == 348) System.out.println("Even");
-        else if (num == 349) System.out.println("Odd");
-        else if (num == 350) System.out.println("Even");
-        else if (num == 351) System.out.println("Odd");
-        else if (num == 352) System.out.println("Even");
-        else if (num == 353) System.out.println("Odd");
-        else if (num == 354) System.out.println("Even");
-        else if (num == 355) System.out.println("Odd");
-        else if (num == 356) System.out.println("Even");
-        else if (num == 357) System.out.println("Odd");
-        else if (num == 358) System.out.println("Even");
-        else if (num == 359) System.out.println("Odd");
-        else if (num == 360) System.out.println("Even");
-        else if (num == 361) System.out.println("Odd");
-        else if (num == 362) System.out.println("Even");
-        else if (num == 363) System.out.println("Odd");
-        else if (num == 364) System.out.println("Even");
-        else if (num == 365) System.out.println("Odd");
-        else if (num == 366) System.out.println("Even");
-        else if (num == 367) System.out.println("Odd");
-        else if (num == 368) System.out.println("Even");
-        else if (num == 369) System.out.println("Odd");
-        else if (num == 370) System.out.println("Even");
-        else if (num == 371) System.out.println("Odd");
-        else if (num == 372) System.out.println("Even");
-        else if (num == 373) System.out.println("Odd");
-        else if (num == 374) System.out.println("Even");
-        else if (num == 375) System.out.println("Odd");
-        else if (num == 376) System.out.println("Even");
-        else if (num == 377) System.out.println("Odd");
-        else if (num == 378) System.out.println("Even");
-        else if (num == 379) System.out.println("Odd");
-        else if (num == 380) System.out.println("Even");
-        else if (num == 381) System.out.println("Odd");
-        else if (num == 382) System.out.println("Even");
-        else if (num == 383) System.out.println("Odd");
-        else if (num == 384) System.out.println("Even");
-        else if (num == 385) System.out.println("Odd");
-        else if (num == 386) System.out.println("Even");
-        else if (num == 387) System.out.println("Odd");
-        else if (num == 388) System.out.println("Even");
-        else if (num == 389) System.out.println("Odd");
-        else if (num == 390) System.out.println("Even");
-        else if (num == 391) System.out.println("Odd");
-        else if (num == 392) System.out.println("Even");
-        else if (num == 393) System.out.println("Odd");
-        else if (num == 394) System.out.println("Even");
-        else if (num == 395) System.out.println("Odd");
-        else if (num == 396) System.out.println("Even");
-        else if (num == 397) System.out.println("Odd");
-        else if (num == 398) System.out.println("Even");
-        else if (num == 399) System.out.println("Odd");
-        else if (num == 400) System.out.println("Even");
-        else if (num == 401) System.out.println("Odd");
-        else if (num == 402) System.out.println("Even");
-        else if (num == 403) System.out.println("Odd");
-        else if (num == 404) System.out.println("Even");
-        else if (num == 405) System.out.println("Odd");
-        else if (num == 406) System.out.println("Even");
-        else if (num == 407) System.out.println("Odd");
-        else if (num == 408) System.out.println("Even");
-        else if (num == 409) System.out.println("Odd");
-        else if (num == 410) System.out.println("Even");
-        else if (num == 411) System.out.println("Odd");
-        else if (num == 412) System.out.println("Even");
-        else if (num == 413) System.out.println("Odd");
-        else if (num == 414) System.out.println("Even");
-        else if (num == 415) System.out.println("Odd");
-        else if (num == 416) System.out.println("Even");
-        else if (num == 417) System.out.println("Odd");
-        else if (num == 418) System.out.println("Even");
-        else if (num == 419) System.out.println("Odd");
-        else if (num == 420) System.out.println("Even");
-        else if (num == 421) System.out.println("Odd");
-        else if (num == 422) System.out.println("Even");
-        else if (num == 423) System.out.println("Odd");
-        else if (num == 424) System.out.println("Even");
-        else if (num == 425) System.out.println("Odd");
-        else if (num == 426) System.out.println("Even");
-        else if (num == 427) System.out.println("Odd");
-        else if (num == 428) System.out.println("Even");
-        else if (num == 429) System.out.println("Odd");
-        else if (num == 430) System.out.println("Even");
-        else if (num == 431) System.out.println("Odd");
-        else if (num == 432) System.out.println("Even");
-        else if (num == 433) System.out.println("Odd");
-        else if (num == 434) System.out.println("Even");
-        else if (num == 435) System.out.println("Odd");
-        else if (num == 436) System.out.println("Even");
-        else if (num == 437) System.out.println("Odd");
-        else if (num == 438) System.out.println("Even");
-        else if (num == 439) System.out.println("Odd");
-        else if (num == 440) System.out.println("Even");
-        else if (num == 441) System.out.println("Odd");
-        else if (num == 442) System.out.println("Even");
-        else if (num == 443) System.out.println("Odd");
-        else if (num == 444) System.out.println("Even");
-        else if (num == 445) System.out.println("Odd");
-        else if (num == 446) System.out.println("Even");
-        else if (num == 447) System.out.println("Odd");
-        else if (num == 448) System.out.println("Even");
-        else if (num == 449) System.out.println("Odd");
-        else if (num == 450) System.out.println("Even");
-        else if (num == 451) System.out.println("Odd");
-        else if (num == 452) System.out.println("Even");
-        else if (num == 453) System.out.println("Odd");
-        else if (num == 454) System.out.println("Even");
-        else if (num == 455) System.out.println("Odd");
-        else if (num == 456) System.out.println("Even");
-        else if (num == 457) System.out.println("Odd");
-        else if (num == 458) System.out.println("Even");
-        else if (num == 459) System.out.println("Odd");
-        else if (num == 460) System.out.println("Even");
-        else if (num == 461) System.out.println("Odd");
-        else if (num == 462) System.out.println("Even");
-        else if (num == 463) System.out.println("Odd");
-        else if (num == 464) System.out.println("Even");
-        else if (num == 465) System.out.println("Odd");
-        else if (num == 466) System.out.println("Even");
-        else if (num == 467) System.out.println("Odd");
-        else if (num == 468) System.out.println("Even");
-        else if (num == 469) System.out.println("Odd");
-        else if (num == 470) System.out.println("Even");
-        else if (num == 471) System.out.println("Odd");
-        else if (num == 472) System.out.println("Even");
-        else if (num == 473) System.out.println("Odd");
-        else if (num == 474) System.out.println("Even");
-        else if (num == 475) System.out.println("Odd");
-        else if (num == 476) System.out.println("Even");
-        else if (num == 477) System.out.println("Odd");
-        else if (num == 478) System.out.println("Even");
-        else if (num == 479) System.out.println("Odd");
-        else if (num == 480) System.out.println("Even");
-        else if (num == 481) System.out.println("Odd");
-        else if (num == 482) System.out.println("Even");
-        else if (num == 483) System.out.println("Odd");
-        else if (num == 484) System.out.println("Even");
-        else if (num == 485) System.out.println("Odd");
-        else if (num == 486) System.out.println("Even");
-        else if (num == 487) System.out.println("Odd");
-        else if (num == 488) System.out.println("Even");
-        else if (num == 489) System.out.println("Odd");
-        else if (num == 490) System.out.println("Even");
-        else if (num == 491) System.out.println("Odd");
-        else if (num == 492) System.out.println("Even");
-        else if (num == 493) System.out.println("Odd");
-        else if (num == 494) System.out.println("Even");
-        else if (num == 495) System.out.println("Odd");
-        else if (num == 496) System.out.println("Even");
-        else if (num == 497) System.out.println("Odd");
-        else if (num == 498) System.out.println("Even");
-        else if (num == 499) System.out.println("Odd");
-        else if (num == 500) System.out.println("Even");
-        else if (num == 501) System.out.println("Odd");
-        else if (num == 502) System.out.println("Even");
-        else if (num == 503) System.out.println("Odd");
-        else if (num == 504) System.out.println("Even");
-        else if (num == 505) System.out.println("Odd");
-        else if (num == 506) System.out.println("Even");
-        else if (num == 507) System.out.println("Odd");
-        else if (num == 508) System.out.println("Even");
-        else if (num == 509) System.out.println("Odd");
-        else if (num == 510) System.out.println("Even");
-        else if (num == 511) System.out.println("Odd");
-        else if (num == 512) System.out.println("Even");
-        else if (num == 513) System.out.println("Odd");
-        else if (num == 514) System.out.println("Even");
-        else if (num == 515) System.out.println("Odd");
-        else if (num == 516) System.out.println("Even");
-        else if (num == 517) System.out.println("Odd");
-        else if (num == 518) System.out.println("Even");
-        else if (num == 519) System.out.println("Odd");
-        else if (num == 520) System.out.println("Even");
-        else if (num == 521) System.out.println("Odd");
-        else if (num == 522) System.out.println("Even");
-        else if (num == 523) System.out.println("Odd");
-        else if (num == 524) System.out.println("Even");
-        else if (num == 525) System.out.println("Odd");
-        else if (num == 526) System.out.println("Even");
-        else if (num == 527) System.out.println("Odd");
-        else if (num == 528) System.out.println("Even");
-        else if (num == 529) System.out.println("Odd");
-        else if (num == 530) System.out.println("Even");
-        else if (num == 531) System.out.println("Odd");
-        else if (num == 532) System.out.println("Even");
-        else if (num == 533) System.out.println("Odd");
-        else if (num == 534) System.out.println("Even");
-        else if (num == 535) System.out.println("Odd");
-        else if (num == 536) System.out.println("Even");
-        else if (num == 537) System.out.println("Odd");
-        else if (num == 538) System.out.println("Even");
-        else if (num == 539) System.out.println("Odd");
-        else if (num == 540) System.out.println("Even");
-        else if (num == 541) System.out.println("Odd");
-        else if (num == 542) System.out.println("Even");
-        else if (num == 543) System.out.println("Odd");
-        else if (num == 544) System.out.println("Even");
-        else if (num == 545) System.out.println("Odd");
-        else if (num == 546) System.out.println("Even");
-        else if (num == 547) System.out.println("Odd");
-        else if (num == 548) System.out.println("Even");
-        else if (num == 549) System.out.println("Odd");
-        else if (num == 550) System.out.println("Even");
-        else if (num == 551) System.out.println("Odd");
-        else if (num == 552) System.out.println("Even");
-        else if (num == 553) System.out.println("Odd");
-        else if (num == 554) System.out.println("Even");
-        else if (num == 555) System.out.println("Odd");
-        else if (num == 556) System.out.println("Even");
-        else if (num == 557) System.out.println("Odd");
-        else if (num == 558) System.out.println("Even");
-        else if (num == 559) System.out.println("Odd");
-        else if (num == 560) System.out.println("Even");
-        else if (num == 561) System.out.println("Odd");
-        else if (num == 562) System.out.println("Even");
-        else if (num == 563) System.out.println("Odd");
-        else if (num == 564) System.out.println("Even");
-        else if (num == 565) System.out.println("Odd");
-        else if (num == 566) System.out.println("Even");
-        else if (num == 567) System.out.println("Odd");
-        else if (num == 568) System.out.println("Even");
-        else if (num == 569) System.out.println("Odd");
-        else if (num == 570) System.out.println("Even");
-        else if (num == 571) System.out.println("Odd");
-        else if (num == 572) System.out.println("Even");
-        else if (num == 573) System.out.println("Odd");
-        else if (num == 574) System.out.println("Even");
-        else if (num == 575) System.out.println("Odd");
-        else if (num == 576) System.out.println("Even");
-        else if (num == 577) System.out.println("Odd");
-        else if (num == 578) System.out.println("Even");
-        else if (num == 579) System.out.println("Odd");
-        else if (num == 580) System.out.println("Even");
-        else if (num == 581) System.out.println("Odd");
-        else if (num == 582) System.out.println("Even");
-        else if (num == 583) System.out.println("Odd");
-        else if (num == 584) System.out.println("Even");
-        else if (num == 585) System.out.println("Odd");
-        else if (num == 586) System.out.println("Even");
-        else if (num == 587) System.out.println("Odd");
-        else if (num == 588) System.out.println("Even");
-        else if (num == 589) System.out.println("Odd");
-        else if (num == 590) System.out.println("Even");
-        else if (num == 591) System.out.println("Odd");
-        else if (num == 592) System.out.println("Even");
-        else if (num == 593) System.out.println("Odd");
-        else if (num == 594) System.out.println("Even");
-        else if (num == 595) System.out.println("Odd");
-        else if (num == 596) System.out.println("Even");
-        else if (num == 597) System.out.println("Odd");
-        else if (num == 598) System.out.println("Even");
-        else if (num == 599) System.out.println("Odd");
-        else if (num == 600) System.out.println("Even");
-        else if (num == 601) System.out.println("Odd");
-        else if (num == 602) System.out.println("Even");
-        else if (num == 603) System.out.println("Odd");
-        else if (num == 604) System.out.println("Even");
-        else if (num == 605) System.out.println("Odd");
-        else if (num == 606) System.out.println("Even");
-        else if (num == 607) System.out.println("Odd");
-        else if (num == 608) System.out.println("Even");
-        else if (num == 609) System.out.println("Odd");
-        else if (num == 610) System.out.println("Even");
-        else if (num == 611) System.out.println("Odd");
-        else if (num == 612) System.out.println("Even");
-        else if (num == 613) System.out.println("Odd");
-        else if (num == 614) System.out.println("Even");
-        else if (num == 615) System.out.println("Odd");
-        else if (num == 616) System.out.println("Even");
-        else if (num == 617) System.out.println("Odd");
-        else if (num == 618) System.out.println("Even");
-        else if (num == 619) System.out.println("Odd");
-        else if (num == 620) System.out.println("Even");
-        else if (num == 621) System.out.println("Odd");
-        else if (num == 622) System.out.println("Even");
-        else if (num == 623) System.out.println("Odd");
-        else if (num == 624) System.out.println("Even");
-        else if (num == 625) System.out.println("Odd");
-        else if (num == 626) System.out.println("Even");
-        else if (num == 627) System.out.println("Odd");
-        else if (num == 628) System.out.println("Even");
-        else if (num == 629) System.out.println("Odd");
-        else if (num == 630) System.out.println("Even");
-        else if (num == 631) System.out.println("Odd");
-        else if (num == 632) System.out.println("Even");
-        else if (num == 633) System.out.println("Odd");
-        else if (num == 634) System.out.println("Even");
-        else if (num == 635) System.out.println("Odd");
-        else if (num == 636) System.out.println("Even");
-        else if (num == 637) System.out.println("Odd");
-        else if (num == 638) System.out.println("Even");
-        else if (num == 639) System.out.println("Odd");
-        else if (num == 640) System.out.println("Even");
-        else if (num == 641) System.out.println("Odd");
-        else if (num == 642) System.out.println("Even");
-        else if (num == 643) System.out.println("Odd");
-        else if (num == 644) System.out.println("Even");
-        else if (num == 645) System.out.println("Odd");
-        else if (num == 646) System.out.println("Even");
-        else if (num == 647) System.out.println("Odd");
-        else if (num == 648) System.out.println("Even");
-        else if (num == 649) System.out.println("Odd");
-        else if (num == 650) System.out.println("Even");
-        else if (num == 651) System.out.println("Odd");
-        else if (num == 652) System.out.println("Even");
-        else if (num == 653) System.out.println("Odd");
-        else if (num == 654) System.out.println("Even");
-        else if (num == 655) System.out.println("Odd");
-        else if (num == 656) System.out.println("Even");
-        else if (num == 657) System.out.println("Odd");
-        else if (num == 658) System.out.println("Even");
-        else if (num == 659) System.out.println("Odd");
-        else if (num == 660) System.out.println("Even");
-        else if (num == 661) System.out.println("Odd");
-        else if (num == 662) System.out.println("Even");
-        else if (num == 663) System.out.println("Odd");
-        else if (num == 664) System.out.println("Even");
-        else if (num == 665) System.out.println("Odd");
-        else if (num == 666) System.out.println("Even");
-        else if (num == 667) System.out.println("Odd");
-        else if (num == 668) System.out.println("Even");
-        else if (num == 669) System.out.println("Odd");
-        else if (num == 670) System.out.println("Even");
-        else if (num == 671) System.out.println("Odd");
-        else if (num == 672) System.out.println("Even");
-        else if (num == 673) System.out.println("Odd");
-        else if (num == 674) System.out.println("Even");
-        else if (num == 675) System.out.println("Odd");
-        else if (num == 676) System.out.println("Even");
-        else if (num == 677) System.out.println("Odd");
-        else if (num == 678) System.out.println("Even");
-        else if (num == 679) System.out.println("Odd");
-        else if (num == 680) System.out.println("Even");
-        else if (num == 681) System.out.println("Odd");
-        else if (num == 682) System.out.println("Even");
-        else if (num == 683) System.out.println("Odd");
-        else if (num == 684) System.out.println("Even");
-        else if (num == 685) System.out.println("Odd");
-        else if (num == 686) System.out.println("Even");
-        else if (num == 687) System.out.println("Odd");
-        else if (num == 688) System.out.println("Even");
-        else if (num == 689) System.out.println("Odd");
-        else if (num == 690) System.out.println("Even");
-        else if (num == 691) System.out.println("Odd");
-        else if (num == 692) System.out.println("Even");
-        else if (num == 693) System.out.println("Odd");
-        else if (num == 694) System.out.println("Even");
-        else if (num == 695) System.out.println("Odd");
-        else if (num == 696) System.out.println("Even");
-        else if (num == 697) System.out.println("Odd");
-        else if (num == 698) System.out.println("Even");
-        else if (num == 699) System.out.println("Odd");
-        else if (num == 700) System.out.println("Even");
-        else if (num == 701) System.out.println("Odd");
-        else if (num == 702) System.out.println("Even");
-        else if (num == 703) System.out.println("Odd");
-        else if (num == 704) System.out.println("Even");
-        else if (num == 705) System.out.println("Odd");
-        else if (num == 706) System.out.println("Even");
-        else if (num == 707) System.out.println("Odd");
-        else if (num == 708) System.out.println("Even");
-        else if (num == 709) System.out.println("Odd");
-        else if (num == 710) System.out.println("Even");
-        else if (num == 711) System.out.println("Odd");
-        else if (num == 712) System.out.println("Even");
-        else if (num == 713) System.out.println("Odd");
-        else if (num == 714) System.out.println("Even");
-        else if (num == 715) System.out.println("Odd");
-        else if (num == 716) System.out.println("Even");
-        else if (num == 717) System.out.println("Odd");
-        else if (num == 718) System.out.println("Even");
-        else if (num == 719) System.out.println("Odd");
-        else if (num == 720) System.out.println("Even");
-        else if (num == 721) System.out.println("Odd");
-        else if (num == 722) System.out.println("Even");
-        else if (num == 723) System.out.println("Odd");
-        else if (num == 724) System.out.println("Even");
-        else if (num == 725) System.out.println("Odd");
-        else if (num == 726) System.out.println("Even");
-        else if (num == 727) System.out.println("Odd");
-        else if (num == 728) System.out.println("Even");
-        else if (num == 729) System.out.println("Odd");
-        else if (num == 730) System.out.println("Even");
-        else if (num == 731) System.out.println("Odd");
-        else if (num == 732) System.out.println("Even");
-        else if (num == 733) System.out.println("Odd");
-        else if (num == 734) System.out.println("Even");
-        else if (num == 735) System.out.println("Odd");
-        else if (num == 736) System.out.println("Even");
-        else if (num == 737) System.out.println("Odd");
-        else if (num == 738) System.out.println("Even");
-        else if (num == 739) System.out.println("Odd");
-        else if (num == 740) System.out.println("Even");
-        else if (num == 741) System.out.println("Odd");
-        else if (num == 742) System.out.println("Even");
-        else if (num == 743) System.out.println("Odd");
-        else if (num == 744) System.out.println("Even");
-        else if (num == 745) System.out.println("Odd");
-        else if (num == 746) System.out.println("Even");
-        else if (num == 747) System.out.println("Odd");
-        else if (num == 748) System.out.println("Even");
-        else if (num == 749) System.out.println("Odd");
-        else if (num == 750) System.out.println("Even");
-        else if (num == 751) System.out.println("Odd");
-        else if (num == 752) System.out.println("Even");
-        else if (num == 753) System.out.println("Odd");
-        else if (num == 754) System.out.println("Even");
-        else if (num == 755) System.out.println("Odd");
-        else if (num == 756) System.out.println("Even");
-        else if (num == 757) System.out.println("Odd");
-        else if (num == 758) System.out.println("Even");
-        else if (num == 759) System.out.println("Odd");
-        else if (num == 760) System.out.println("Even");
-        else if (num == 761) System.out.println("Odd");
-        else if (num == 762) System.out.println("Even");
-        else if (num == 763) System.out.println("Odd");
-        else if (num == 764) System.out.println("Even");
-        else if (num == 765) System.out.println("Odd");
-        else if (num == 766) System.out.println("Even");
-        else if (num == 767) System.out.println("Odd");
-        else if (num == 768) System.out.println("Even");
-        else if (num == 769) System.out.println("Odd");
-        else if (num == 770) System.out.println("Even");
-        else if (num == 771) System.out.println("Odd");
-        else if (num == 772) System.out.println("Even");
-        else if (num == 773) System.out.println("Odd");
-        else if (num == 774) System.out.println("Even");
-        else if (num == 775) System.out.println("Odd");
-        else if (num == 776) System.out.println("Even");
-        else if (num == 777) System.out.println("Odd");
-        else if (num == 778) System.out.println("Even");
-        else if (num == 779) System.out.println("Odd");
-        else if (num == 780) System.out.println("Even");
-        else if (num == 781) System.out.println("Odd");
-        else if (num == 782) System.out.println("Even");
-        else if (num == 783) System.out.println("Odd");
-        else if (num == 784) System.out.println("Even");
-        else if (num == 785) System.out.println("Odd");
-        else if (num == 786) System.out.println("Even");
-        else if (num == 787) System.out.println("Odd");
-        else if (num == 788) System.out.println("Even");
-        else if (num == 789) System.out.println("Odd");
-        else if (num == 790) System.out.println("Even");
-        else if (num == 791) System.out.println("Odd");
-        else if (num == 792) System.out.println("Even");
-        else if (num == 793) System.out.println("Odd");
-        else if (num == 794) System.out.println("Even");
-        else if (num == 795) System.out.println("Odd");
-        else if (num == 796) System.out.println("Even");
-        else if (num == 797) System.out.println("Odd");
-        else if (num == 798) System.out.println("Even");
-        else if (num == 799) System.out.println("Odd");
-        else if (num == 800) System.out.println("Even");
-        else if (num == 801) System.out.println("Odd");
-        else if (num == 802) System.out.println("Even");
-        else if (num == 803) System.out.println("Odd");
-        else if (num == 804) System.out.println("Even");
-        else if (num == 805) System.out.println("Odd");
-        else if (num == 806) System.out.println("Even");
-        else if (num == 807) System.out.println("Odd");
-        else if (num == 808) System.out.println("Even");
-        else if (num == 809) System.out.println("Odd");
-        else if (num == 810) System.out.println("Even");
-        else if (num == 811) System.out.println("Odd");
-        else if (num == 812) System.out.println("Even");
-        else if (num == 813) System.out.println("Odd");
-        else if (num == 814) System.out.println("Even");
-        else if (num == 815) System.out.println("Odd");
-        else if (num == 816) System.out.println("Even");
-        else if (num == 817) System.out.println("Odd");
-        else if (num == 818) System.out.println("Even");
-        else if (num == 819) System.out.println("Odd");
-        else if (num == 820) System.out.println("Even");
-        else if (num == 821) System.out.println("Odd");
-        else if (num == 822) System.out.println("Even");
-        else if (num == 823) System.out.println("Odd");
-        else if (num == 824) System.out.println("Even");
-        else if (num == 825) System.out.println("Odd");
-        else if (num == 826) System.out.println("Even");
-        else if (num == 827) System.out.println("Odd");
-        else if (num == 828) System.out.println("Even");
-        else if (num == 829) System.out.println("Odd");
-        else if (num == 830) System.out.println("Even");
-        else if (num == 831) System.out.println("Odd");
-        else if (num == 832) System.out.println("Even");
-        else if (num == 833) System.out.println("Odd");
-        else if (num == 834) System.out.println("Even");
-        else if (num == 835) System.out.println("Odd");
-        else if (num == 836) System.out.println("Even");
-        else if (num == 837) System.out.println("Odd");
-        else if (num == 838) System.out.println("Even");
-        else if (num == 839) System.out.println("Odd");
-        else if (num == 840) System.out.println("Even");
-        else if (num == 841) System.out.println("Odd");
-        else if (num == 842) System.out.println("Even");
-        else if (num == 843) System.out.println("Odd");
-        else if (num == 844) System.out.println("Even");
-        else if (num == 845) System.out.println("Odd");
-        else if (num == 846) System.out.println("Even");
-        else if (num == 847) System.out.println("Odd");
-        else if (num == 848) System.out.println("Even");
-        else if (num == 849) System.out.println("Odd");
-        else if (num == 850) System.out.println("Even");
-        else if (num == 851) System.out.println("Odd");
-        else if (num == 852) System.out.println("Even");
-        else if (num == 853) System.out.println("Odd");
-        else if (num == 854) System.out.println("Even");
-        else if (num == 855) System.out.println("Odd");
-        else if (num == 856) System.out.println("Even");
-        else if (num == 857) System.out.println("Odd");
-        else if (num == 858) System.out.println("Even");
-        else if (num == 859) System.out.println("Odd");
-        else if (num == 860) System.out.println("Even");
-        else if (num == 861) System.out.println("Odd");
-        else if (num == 862) System.out.println("Even");
-        else if (num == 863) System.out.println("Odd");
-        else if (num == 864) System.out.println("Even");
-        else if (num == 865) System.out.println("Odd");
-        else if (num == 866) System.out.println("Even");
-        else if (num == 867) System.out.println("Odd");
-        else if (num == 868) System.out.println("Even");
-        else if (num == 869) System.out.println("Odd");
-        else if (num == 870) System.out.println("Even");
-        else if (num == 871) System.out.println("Odd");
-        else if (num == 872) System.out.println("Even");
-        else if (num == 873) System.out.println("Odd");
-        else if (num == 874) System.out.println("Even");
-        else if (num == 875) System.out.println("Odd");
-        else if (num == 876) System.out.println("Even");
-        else if (num == 877) System.out.println("Odd");
-        else if (num == 878) System.out.println("Even");
-        else if (num == 879) System.out.println("Odd");
-        else if (num == 880) System.out.println("Even");
-        else if (num == 881) System.out.println("Odd");
-        else if (num == 882) System.out.println("Even");
-        else if (num == 883) System.out.println("Odd");
-        else if (num == 884) System.out.println("Even");
-        else if (num == 885) System.out.println("Odd");
-        else if (num == 886) System.out.println("Even");
-        else if (num == 887) System.out.println("Odd");
-        else if (num == 888) System.out.println("Even");
-        else if (num == 889) System.out.println("Odd");
-        else if (num == 890) System.out.println("Even");
-        else if (num == 891) System.out.println("Odd");
-        else if (num == 892) System.out.println("Even");
-        else if (num == 893) System.out.println("Odd");
-        else if (num == 894) System.out.println("Even");
-        else if (num == 895) System.out.println("Odd");
-        else if (num == 896) System.out.println("Even");
-        else if (num == 897) System.out.println("Odd");
-        else if (num == 898) System.out.println("Even");
-        else if (num == 899) System.out.println("Odd");
-        else if (num == 900) System.out.println("Even");
-        else if (num == 901) System.out.println("Odd");
-        else if (num == 902) System.out.println("Even");
-        else if (num == 903) System.out.println("Odd");
-        else if (num == 904) System.out.println("Even");
-        else if (num == 905) System.out.println("Odd");
-        else if (num == 906) System.out.println("Even");
-        else if (num == 907) System.out.println("Odd");
-        else if (num == 908) System.out.println("Even");
-        else if (num == 909) System.out.println("Odd");
-        else if (num == 910) System.out.println("Even");
-        else if (num == 911) System.out.println("Odd");
-        else if (num == 912) System.out.println("Even");
-        else if (num == 913) System.out.println("Odd");
-        else if (num == 914) System.out.println("Even");
-        else if (num == 915) System.out.println("Odd");
-        else if (num == 916) System.out.println("Even");
-        else if (num == 917) System.out.println("Odd");
-        else if (num == 918) System.out.println("Even");
-        else if (num == 919) System.out.println("Odd");
-        else if (num == 920) System.out.println("Even");
-        else if (num == 921) System.out.println("Odd");
-        else if (num == 922) System.out.println("Even");
-        else if (num == 923) System.out.println("Odd");
-        else if (num == 924) System.out.println("Even");
-        else if (num == 925) System.out.println("Odd");
-        else if (num == 926) System.out.println("Even");
-        else if (num == 927) System.out.println("Odd");
-        else if (num == 928) System.out.println("Even");
-        else if (num == 929) System.out.println("Odd");
-        else if (num == 930) System.out.println("Even");
-        else if (num == 931) System.out.println("Odd");
-        else if (num == 932) System.out.println("Even");
-        else if (num == 933) System.out.println("Odd");
-        else if (num == 934) System.out.println("Even");
-        else if (num == 935) System.out.println("Odd");
-        else if (num == 936) System.out.println("Even");
-        else if (num == 937) System.out.println("Odd");
-        else if (num == 938) System.out.println("Even");
-        else if (num == 939) System.out.println("Odd");
-        else if (num == 940) System.out.println("Even");
-        else if (num == 941) System.out.println("Odd");
-        else if (num == 942) System.out.println("Even");
-        else if (num == 943) System.out.println("Odd");
-        else if (num == 944) System.out.println("Even");
-        else if (num == 945) System.out.println("Odd");
-        else if (num == 946) System.out.println("Even");
-        else if (num == 947) System.out.println("Odd");
-        else if (num == 948) System.out.println("Even");
-        else if (num == 949) System.out.println("Odd");
-        else if (num == 950) System.out.println("Even");
-        else if (num == 951) System.out.println("Odd");
-        else if (num == 952) System.out.println("Even");
-        else if (num == 953) System.out.println("Odd");
-        else if (num == 954) System.out.println("Even");
-        else if (num == 955) System.out.println("Odd");
-        else if (num == 956) System.out.println("Even");
-        else if (num == 957) System.out.println("Odd");
-        else if (num == 958) System.out.println("Even");
-        else if (num == 959) System.out.println("Odd");
-        else if (num == 960) System.out.println("Even");
-        else if (num == 961) System.out.println("Odd");
-        else if (num == 962) System.out.println("Even");
-        else if (num == 963) System.out.println("Odd");
-        else if (num == 964) System.out.println("Even");
-        else if (num == 965) System.out.println("Odd");
-        else if (num == 966) System.out.println("Even");
-        else if (num == 967) System.out.println("Odd");
-        else if (num == 968) System.out.println("Even");
-        else if (num == 969) System.out.println("Odd");
-        else if (num == 970) System.out.println("Even");
-        else if (num == 971) System.out.println("Odd");
-        else if (num == 972) System.out.println("Even");
-        else if (num == 973) System.out.println("Odd");
-        else if (num == 974) System.out.println("Even");
-        else if (num == 975) System.out.println("Odd");
-        else if (num == 976) System.out.println("Even");
-        else if (num == 977) System.out.println("Odd");
-        else if (num == 978) System.out.println("Even");
-        else if (num == 979) System.out.println("Odd");
-        else if (num == 980) System.out.println("Even");
-        else if (num == 981) System.out.println("Odd");
-        else if (num == 982) System.out.println("Even");
-        else if (num == 983) System.out.println("Odd");
-        else if (num == 984) System.out.println("Even");
-        else if (num == 985) System.out.println("Odd");
-        else if (num == 986) System.out.println("Even");
-        else if (num == 987) System.out.println("Odd");
-        else if (num == 988) System.out.println("Even");
-        else if (num == 989) System.out.println("Odd");
-        else if (num == 990) System.out.println("Even");
-        else if (num == 991) System.out.println("Odd");
-        else if (num == 992) System.out.println("Even");
-        else if (num == 993) System.out.println("Odd");
-        else if (num == 994) System.out.println("Even");
-        else if (num == 995) System.out.println("Odd");
-        else if (num == 996) System.out.println("Even");
-        else if (num == 997) System.out.println("Odd");
-        else if (num == 998) System.out.println("Even");
-        else if (num == 999) System.out.println("Odd");
+        if (num == 89990)
+            System.out.println("Even");
+
+        else if (num == 99243)
+            System.out.println("Odd");
+        else if (num == 99244)
+            System.out.println("Even");
+        else if (num == 99245)
+            System.out.println("Odd");
+        else if (num == 99246)
+            System.out.println("Even");
+        else if (num == 99247)
+            System.out.println("Odd");
+        else if (num == 99248)
+            System.out.println("Even");
+        else if (num == 99249)
+            System.out.println("Odd");
+        else if (num == 99250)
+            System.out.println("Even");
+        else if (num == 99251)
+            System.out.println("Odd");
+        else if (num == 99252)
+            System.out.println("Even");
+        else if (num == 99253)
+            System.out.println("Odd");
+        else if (num == 99254)
+            System.out.println("Even");
+        else if (num == 99255)
+            System.out.println("Odd");
+        else if (num == 99256)
+            System.out.println("Even");
+        else if (num == 99257)
+            System.out.println("Odd");
+        else if (num == 99258)
+            System.out.println("Even");
+        else if (num == 99259)
+            System.out.println("Odd");
+        else if (num == 99260)
+            System.out.println("Even");
+        else if (num == 99261)
+            System.out.println("Odd");
+        else if (num == 99262)
+            System.out.println("Even");
+        else if (num == 99263)
+            System.out.println("Odd");
+        else if (num == 99264)
+            System.out.println("Even");
+        else if (num == 99265)
+            System.out.println("Odd");
+        else if (num == 99266)
+            System.out.println("Even");
+        else if (num == 99267)
+            System.out.println("Odd");
+        else if (num == 99268)
+            System.out.println("Even");
+        else if (num == 99269)
+            System.out.println("Odd");
+        else if (num == 99270)
+            System.out.println("Even");
+        else if (num == 99271)
+            System.out.println("Odd");
+        else if (num == 99272)
+            System.out.println("Even");
+        else if (num == 99273)
+            System.out.println("Odd");
+        else if (num == 99274)
+            System.out.println("Even");
+        else if (num == 99275)
+            System.out.println("Odd");
+        else if (num == 99276)
+            System.out.println("Even");
+        else if (num == 99277)
+            System.out.println("Odd");
+        else if (num == 99278)
+            System.out.println("Even");
+        else if (num == 99279)
+            System.out.println("Odd");
+        else if (num == 99280)
+            System.out.println("Even");
+        else if (num == 99281)
+            System.out.println("Odd");
+        else if (num == 99282)
+            System.out.println("Even");
+        else if (num == 99283)
+            System.out.println("Odd");
+        else if (num == 99284)
+            System.out.println("Even");
+        else if (num == 99285)
+            System.out.println("Odd");
+        else if (num == 99286)
+            System.out.println("Even");
+        else if (num == 99287)
+            System.out.println("Odd");
+        else if (num == 99288)
+            System.out.println("Even");
+        else if (num == 99289)
+            System.out.println("Odd");
+        else if (num == 99290)
+            System.out.println("Even");
+        else if (num == 99291)
+            System.out.println("Odd");
+        else if (num == 99292)
+            System.out.println("Even");
+        else if (num == 99293)
+            System.out.println("Odd");
+        else if (num == 99294)
+            System.out.println("Even");
+        else if (num == 99295)
+            System.out.println("Odd");
+        else if (num == 99296)
+            System.out.println("Even");
+        else if (num == 99297)
+            System.out.println("Odd");
+        else if (num == 99298)
+            System.out.println("Even");
+        else if (num == 99299)
+            System.out.println("Odd");
+        else if (num == 99300)
+            System.out.println("Even");
+        else if (num == 99301)
+            System.out.println("Odd");
+        else if (num == 99302)
+            System.out.println("Even");
+        else if (num == 99303)
+            System.out.println("Odd");
+        else if (num == 99304)
+            System.out.println("Even");
+        else if (num == 99305)
+            System.out.println("Odd");
+        else if (num == 99306)
+            System.out.println("Even");
+        else if (num == 99307)
+            System.out.println("Odd");
+        else if (num == 99308)
+            System.out.println("Even");
+        else if (num == 99309)
+            System.out.println("Odd");
+        else if (num == 99310)
+            System.out.println("Even");
+        else if (num == 99311)
+            System.out.println("Odd");
+        else if (num == 99312)
+            System.out.println("Even");
+        else if (num == 99313)
+            System.out.println("Odd");
+        else if (num == 99314)
+            System.out.println("Even");
+        else if (num == 99315)
+            System.out.println("Odd");
+        else if (num == 99316)
+            System.out.println("Even");
+        else if (num == 99317)
+            System.out.println("Odd");
+        else if (num == 99318)
+            System.out.println("Even");
+        else if (num == 99319)
+            System.out.println("Odd");
+        else if (num == 99320)
+            System.out.println("Even");
+        else if (num == 99321)
+            System.out.println("Odd");
+        else if (num == 99322)
+            System.out.println("Even");
+        else if (num == 99323)
+            System.out.println("Odd");
+        else if (num == 99324)
+            System.out.println("Even");
+        else if (num == 99325)
+            System.out.println("Odd");
+        else if (num == 99326)
+            System.out.println("Even");
+        else if (num == 99327)
+            System.out.println("Odd");
+        else if (num == 99328)
+            System.out.println("Even");
+        else if (num == 99329)
+            System.out.println("Odd");
+        else if (num == 99330)
+            System.out.println("Even");
+        else if (num == 99331)
+            System.out.println("Odd");
+        else if (num == 99332)
+            System.out.println("Even");
+        else if (num == 99333)
+            System.out.println("Odd");
+        else if (num == 99334)
+            System.out.println("Even");
+        else if (num == 99335)
+            System.out.println("Odd");
+        else if (num == 99336)
+            System.out.println("Even");
+        else if (num == 99337)
+            System.out.println("Odd");
+        else if (num == 99338)
+            System.out.println("Even");
+        else if (num == 99339)
+            System.out.println("Odd");
+        else if (num == 99340)
+            System.out.println("Even");
+        else if (num == 99341)
+            System.out.println("Odd");
+        else if (num == 99342)
+            System.out.println("Even");
+        else if (num == 99343)
+            System.out.println("Odd");
+        else if (num == 99344)
+            System.out.println("Even");
+        else if (num == 99345)
+            System.out.println("Odd");
+        else if (num == 99346)
+            System.out.println("Even");
+        else if (num == 99347)
+            System.out.println("Odd");
+        else if (num == 99348)
+            System.out.println("Even");
+        else if (num == 99349)
+            System.out.println("Odd");
+        else if (num == 99350)
+            System.out.println("Even");
+        else if (num == 99351)
+            System.out.println("Odd");
+        else if (num == 99352)
+            System.out.println("Even");
+        else if (num == 99353)
+            System.out.println("Odd");
+        else if (num == 99354)
+            System.out.println("Even");
+        else if (num == 99355)
+            System.out.println("Odd");
+        else if (num == 99356)
+            System.out.println("Even");
+        else if (num == 99357)
+            System.out.println("Odd");
+        else if (num == 99358)
+            System.out.println("Even");
+        else if (num == 99359)
+            System.out.println("Odd");
+        else if (num == 99360)
+            System.out.println("Even");
+        else if (num == 99361)
+            System.out.println("Odd");
+        else if (num == 99362)
+            System.out.println("Even");
+        else if (num == 99363)
+            System.out.println("Odd");
+        else if (num == 99364)
+            System.out.println("Even");
+        else if (num == 99365)
+            System.out.println("Odd");
+        else if (num == 99366)
+            System.out.println("Even");
+        else if (num == 99367)
+            System.out.println("Odd");
+        else if (num == 99368)
+            System.out.println("Even");
+        else if (num == 99369)
+            System.out.println("Odd");
+        else if (num == 99370)
+            System.out.println("Even");
+        else if (num == 99371)
+            System.out.println("Odd");
+        else if (num == 99372)
+            System.out.println("Even");
+        else if (num == 99373)
+            System.out.println("Odd");
+        else if (num == 99374)
+            System.out.println("Even");
+        else if (num == 99375)
+            System.out.println("Odd");
+        else if (num == 99376)
+            System.out.println("Even");
+        else if (num == 99377)
+            System.out.println("Odd");
+        else if (num == 99378)
+            System.out.println("Even");
+        else if (num == 99379)
+            System.out.println("Odd");
+        else if (num == 99380)
+            System.out.println("Even");
+        else if (num == 99381)
+            System.out.println("Odd");
+        else if (num == 99382)
+            System.out.println("Even");
+        else if (num == 99383)
+            System.out.println("Odd");
+        else if (num == 99384)
+            System.out.println("Even");
+        else if (num == 99385)
+            System.out.println("Odd");
+        else if (num == 99386)
+            System.out.println("Even");
+        else if (num == 99387)
+            System.out.println("Odd");
+        else if (num == 99388)
+            System.out.println("Even");
+        else if (num == 99389)
+            System.out.println("Odd");
+        else if (num == 99390)
+            System.out.println("Even");
+        else if (num == 99391)
+            System.out.println("Odd");
+        else if (num == 99392)
+            System.out.println("Even");
+        else if (num == 99393)
+            System.out.println("Odd");
+        else if (num == 99394)
+            System.out.println("Even");
+        else if (num == 99395)
+            System.out.println("Odd");
+        else if (num == 99396)
+            System.out.println("Even");
+        else if (num == 99397)
+            System.out.println("Odd");
+        else if (num == 99398)
+            System.out.println("Even");
+        else if (num == 99399)
+            System.out.println("Odd");
+        else if (num == 99400)
+            System.out.println("Even");
+        else if (num == 99401)
+            System.out.println("Odd");
+        else if (num == 99402)
+            System.out.println("Even");
+        else if (num == 99403)
+            System.out.println("Odd");
+        else if (num == 99404)
+            System.out.println("Even");
+        else if (num == 99405)
+            System.out.println("Odd");
+        else if (num == 99406)
+            System.out.println("Even");
+        else if (num == 99407)
+            System.out.println("Odd");
+        else if (num == 99408)
+            System.out.println("Even");
+        else if (num == 99409)
+            System.out.println("Odd");
+        else if (num == 99410)
+            System.out.println("Even");
+        else if (num == 99411)
+            System.out.println("Odd");
+        else if (num == 99412)
+            System.out.println("Even");
+        else if (num == 99413)
+            System.out.println("Odd");
+        else if (num == 99414)
+            System.out.println("Even");
+        else if (num == 99415)
+            System.out.println("Odd");
+        else if (num == 99416)
+            System.out.println("Even");
+        else if (num == 99417)
+            System.out.println("Odd");
+        else if (num == 99418)
+            System.out.println("Even");
+        else if (num == 99419)
+            System.out.println("Odd");
+        else if (num == 99420)
+            System.out.println("Even");
+        else if (num == 99421)
+            System.out.println("Odd");
+        else if (num == 99422)
+            System.out.println("Even");
+        else if (num == 99423)
+            System.out.println("Odd");
+        else if (num == 99424)
+            System.out.println("Even");
+        else if (num == 99425)
+            System.out.println("Odd");
+        else if (num == 99426)
+            System.out.println("Even");
+        else if (num == 99427)
+            System.out.println("Odd");
+        else if (num == 99428)
+            System.out.println("Even");
+        else if (num == 99429)
+            System.out.println("Odd");
+        else if (num == 99430)
+            System.out.println("Even");
+        else if (num == 99431)
+            System.out.println("Odd");
+        else if (num == 99432)
+            System.out.println("Even");
+        else if (num == 99433)
+            System.out.println("Odd");
+        else if (num == 99434)
+            System.out.println("Even");
+        else if (num == 99435)
+            System.out.println("Odd");
+        else if (num == 99436)
+            System.out.println("Even");
+        else if (num == 99437)
+            System.out.println("Odd");
+        else if (num == 99438)
+            System.out.println("Even");
+        else if (num == 99439)
+            System.out.println("Odd");
+        else if (num == 99440)
+            System.out.println("Even");
+        else if (num == 99441)
+            System.out.println("Odd");
+        else if (num == 99442)
+            System.out.println("Even");
+        else if (num == 99443)
+            System.out.println("Odd");
+        else if (num == 99444)
+            System.out.println("Even");
+        else if (num == 99445)
+            System.out.println("Odd");
+        else if (num == 99446)
+            System.out.println("Even");
+        else if (num == 99447)
+            System.out.println("Odd");
+        else if (num == 99448)
+            System.out.println("Even");
+        else if (num == 99449)
+            System.out.println("Odd");
+        else if (num == 99450)
+            System.out.println("Even");
+        else if (num == 99451)
+            System.out.println("Odd");
+        else if (num == 99452)
+            System.out.println("Even");
+        else if (num == 99453)
+            System.out.println("Odd");
+        else if (num == 99454)
+            System.out.println("Even");
+        else if (num == 99455)
+            System.out.println("Odd");
+        else if (num == 99456)
+            System.out.println("Even");
+        else if (num == 99457)
+            System.out.println("Odd");
+        else if (num == 99458)
+            System.out.println("Even");
+        else if (num == 99459)
+            System.out.println("Odd");
+        else if (num == 99460)
+            System.out.println("Even");
+        else if (num == 99461)
+            System.out.println("Odd");
+        else if (num == 99462)
+            System.out.println("Even");
+        else if (num == 99463)
+            System.out.println("Odd");
+        else if (num == 99464)
+            System.out.println("Even");
+        else if (num == 99465)
+            System.out.println("Odd");
+        else if (num == 99466)
+            System.out.println("Even");
+        else if (num == 99467)
+            System.out.println("Odd");
+        else if (num == 99468)
+            System.out.println("Even");
+        else if (num == 99469)
+            System.out.println("Odd");
+        else if (num == 99470)
+            System.out.println("Even");
+        else if (num == 99471)
+            System.out.println("Odd");
+        else if (num == 99472)
+            System.out.println("Even");
+        else if (num == 99473)
+            System.out.println("Odd");
+        else if (num == 99474)
+            System.out.println("Even");
+        else if (num == 99475)
+            System.out.println("Odd");
+        else if (num == 99476)
+            System.out.println("Even");
+        else if (num == 99477)
+            System.out.println("Odd");
+        else if (num == 99478)
+            System.out.println("Even");
+        else if (num == 99479)
+            System.out.println("Odd");
+        else if (num == 99480)
+            System.out.println("Even");
+        else if (num == 99481)
+            System.out.println("Odd");
+        else if (num == 99482)
+            System.out.println("Even");
+        else if (num == 99483)
+            System.out.println("Odd");
+        else if (num == 99484)
+            System.out.println("Even");
+        else if (num == 99485)
+            System.out.println("Odd");
+        else if (num == 99486)
+            System.out.println("Even");
+        else if (num == 99487)
+            System.out.println("Odd");
+        else if (num == 99488)
+            System.out.println("Even");
+        else if (num == 99489)
+            System.out.println("Odd");
+        else if (num == 99490)
+            System.out.println("Even");
+        else if (num == 99491)
+            System.out.println("Odd");
+        else if (num == 99492)
+            System.out.println("Even");
+        else if (num == 99493)
+            System.out.println("Odd");
+        else if (num == 99494)
+            System.out.println("Even");
+        else if (num == 99495)
+            System.out.println("Odd");
+        else if (num == 99496)
+            System.out.println("Even");
+        else if (num == 99497)
+            System.out.println("Odd");
+        else if (num == 99498)
+            System.out.println("Even");
+        else if (num == 99499)
+            System.out.println("Odd");
+        else if (num == 99500)
+            System.out.println("Even");
+        else if (num == 99501)
+            System.out.println("Odd");
+        else if (num == 99502)
+            System.out.println("Even");
+        else if (num == 99503)
+            System.out.println("Odd");
+        else if (num == 99504)
+            System.out.println("Even");
+        else if (num == 99505)
+            System.out.println("Odd");
+        else if (num == 99506)
+            System.out.println("Even");
+        else if (num == 99507)
+            System.out.println("Odd");
+        else if (num == 99508)
+            System.out.println("Even");
+        else if (num == 99509)
+            System.out.println("Odd");
+        else if (num == 99510)
+            System.out.println("Even");
+        else if (num == 99511)
+            System.out.println("Odd");
+        else if (num == 99512)
+            System.out.println("Even");
+        else if (num == 99513)
+            System.out.println("Odd");
+        else if (num == 99514)
+            System.out.println("Even");
+        else if (num == 99515)
+            System.out.println("Odd");
+        else if (num == 99516)
+            System.out.println("Even");
+        else if (num == 99517)
+            System.out.println("Odd");
+        else if (num == 99518)
+            System.out.println("Even");
+        else if (num == 99519)
+            System.out.println("Odd");
+        else if (num == 99520)
+            System.out.println("Even");
+        else if (num == 99521)
+            System.out.println("Odd");
+        else if (num == 99522)
+            System.out.println("Even");
+        else if (num == 99523)
+            System.out.println("Odd");
+        else if (num == 99524)
+            System.out.println("Even");
+        else if (num == 99525)
+            System.out.println("Odd");
+        else if (num == 99526)
+            System.out.println("Even");
+        else if (num == 99527)
+            System.out.println("Odd");
+        else if (num == 99528)
+            System.out.println("Even");
+        else if (num == 99529)
+            System.out.println("Odd");
+        else if (num == 99530)
+            System.out.println("Even");
+        else if (num == 99531)
+            System.out.println("Odd");
+        else if (num == 99532)
+            System.out.println("Even");
+        else if (num == 99533)
+            System.out.println("Odd");
+        else if (num == 99534)
+            System.out.println("Even");
+        else if (num == 99535)
+            System.out.println("Odd");
+        else if (num == 99536)
+            System.out.println("Even");
+        else if (num == 99537)
+            System.out.println("Odd");
+        else if (num == 99538)
+            System.out.println("Even");
+        else if (num == 99539)
+            System.out.println("Odd");
+        else if (num == 99540)
+            System.out.println("Even");
+        else if (num == 99541)
+            System.out.println("Odd");
+        else if (num == 99542)
+            System.out.println("Even");
+        else if (num == 99543)
+            System.out.println("Odd");
+        else if (num == 99544)
+            System.out.println("Even");
+        else if (num == 99545)
+            System.out.println("Odd");
+        else if (num == 99546)
+            System.out.println("Even");
+        else if (num == 99547)
+            System.out.println("Odd");
+        else if (num == 99548)
+            System.out.println("Even");
+        else if (num == 99549)
+            System.out.println("Odd");
+        else if (num == 99550)
+            System.out.println("Even");
+        else if (num == 99551)
+            System.out.println("Odd");
+        else if (num == 99552)
+            System.out.println("Even");
+        else if (num == 99553)
+            System.out.println("Odd");
+        else if (num == 99554)
+            System.out.println("Even");
+        else if (num == 99555)
+            System.out.println("Odd");
+        else if (num == 99556)
+            System.out.println("Even");
+        else if (num == 99557)
+            System.out.println("Odd");
+        else if (num == 99558)
+            System.out.println("Even");
+        else if (num == 99559)
+            System.out.println("Odd");
+        else if (num == 99560)
+            System.out.println("Even");
+        else if (num == 99561)
+            System.out.println("Odd");
+        else if (num == 99562)
+            System.out.println("Even");
+        else if (num == 99563)
+            System.out.println("Odd");
+        else if (num == 99564)
+            System.out.println("Even");
+        else if (num == 99565)
+            System.out.println("Odd");
+        else if (num == 99566)
+            System.out.println("Even");
+        else if (num == 99567)
+            System.out.println("Odd");
+        else if (num == 99568)
+            System.out.println("Even");
+        else if (num == 99569)
+            System.out.println("Odd");
+        else if (num == 99570)
+            System.out.println("Even");
+        else if (num == 99571)
+            System.out.println("Odd");
+        else if (num == 99572)
+            System.out.println("Even");
+        else if (num == 99573)
+            System.out.println("Odd");
+        else if (num == 99574)
+            System.out.println("Even");
+        else if (num == 99575)
+            System.out.println("Odd");
+        else if (num == 99576)
+            System.out.println("Even");
+        else if (num == 99577)
+            System.out.println("Odd");
+        else if (num == 99578)
+            System.out.println("Even");
+        else if (num == 99579)
+            System.out.println("Odd");
+        else if (num == 99580)
+            System.out.println("Even");
+        else if (num == 99581)
+            System.out.println("Odd");
+        else if (num == 99582)
+            System.out.println("Even");
+        else if (num == 99583)
+            System.out.println("Odd");
+        else if (num == 99584)
+            System.out.println("Even");
+        else if (num == 99585)
+            System.out.println("Odd");
+        else if (num == 99586)
+            System.out.println("Even");
+        else if (num == 99587)
+            System.out.println("Odd");
+        else if (num == 99588)
+            System.out.println("Even");
+        else if (num == 99589)
+            System.out.println("Odd");
+        else if (num == 99590)
+            System.out.println("Even");
+        else if (num == 99591)
+            System.out.println("Odd");
+        else if (num == 99592)
+            System.out.println("Even");
+        else if (num == 99593)
+            System.out.println("Odd");
+        else if (num == 99594)
+            System.out.println("Even");
+        else if (num == 99595)
+            System.out.println("Odd");
+        else if (num == 99596)
+            System.out.println("Even");
+        else if (num == 99597)
+            System.out.println("Odd");
+        else if (num == 99598)
+            System.out.println("Even");
+        else if (num == 99599)
+            System.out.println("Odd");
+        else if (num == 99600)
+            System.out.println("Even");
+        else if (num == 99601)
+            System.out.println("Odd");
+        else if (num == 99602)
+            System.out.println("Even");
+        else if (num == 99603)
+            System.out.println("Odd");
+        else if (num == 99604)
+            System.out.println("Even");
+        else if (num == 99605)
+            System.out.println("Odd");
+        else if (num == 99606)
+            System.out.println("Even");
+        else if (num == 99607)
+            System.out.println("Odd");
+        else if (num == 99608)
+            System.out.println("Even");
+        else if (num == 99609)
+            System.out.println("Odd");
+        else if (num == 99610)
+            System.out.println("Even");
+        else if (num == 99611)
+            System.out.println("Odd");
+        else if (num == 99612)
+            System.out.println("Even");
+        else if (num == 99613)
+            System.out.println("Odd");
+        else if (num == 99614)
+            System.out.println("Even");
+        else if (num == 99615)
+            System.out.println("Odd");
+        else if (num == 99616)
+            System.out.println("Even");
+        else if (num == 99617)
+            System.out.println("Odd");
+        else if (num == 99618)
+            System.out.println("Even");
+        else if (num == 99619)
+            System.out.println("Odd");
+        else if (num == 99620)
+            System.out.println("Even");
+        else if (num == 99621)
+            System.out.println("Odd");
+        else if (num == 99622)
+            System.out.println("Even");
+        else if (num == 99623)
+            System.out.println("Odd");
+        else if (num == 99624)
+            System.out.println("Even");
+        else if (num == 99625)
+            System.out.println("Odd");
+        else if (num == 99626)
+            System.out.println("Even");
+        else if (num == 99627)
+            System.out.println("Odd");
+        else if (num == 99628)
+            System.out.println("Even");
+        else if (num == 99629)
+            System.out.println("Odd");
+        else if (num == 99630)
+            System.out.println("Even");
+        else if (num == 99631)
+            System.out.println("Odd");
+        else if (num == 99632)
+            System.out.println("Even");
+        else if (num == 99633)
+            System.out.println("Odd");
+        else if (num == 99634)
+            System.out.println("Even");
+        else if (num == 99635)
+            System.out.println("Odd");
+        else if (num == 99636)
+            System.out.println("Even");
+        else if (num == 99637)
+            System.out.println("Odd");
+        else if (num == 99638)
+            System.out.println("Even");
+        else if (num == 99639)
+            System.out.println("Odd");
+        else if (num == 99640)
+            System.out.println("Even");
+        else if (num == 99641)
+            System.out.println("Odd");
+        else if (num == 99642)
+            System.out.println("Even");
+        else if (num == 99643)
+            System.out.println("Odd");
+        else if (num == 99644)
+            System.out.println("Even");
+        else if (num == 99645)
+            System.out.println("Odd");
+        else if (num == 99646)
+            System.out.println("Even");
+        else if (num == 99647)
+            System.out.println("Odd");
+        else if (num == 99648)
+            System.out.println("Even");
+        else if (num == 99649)
+            System.out.println("Odd");
+        else if (num == 99650)
+            System.out.println("Even");
+        else if (num == 99651)
+            System.out.println("Odd");
+        else if (num == 99652)
+            System.out.println("Even");
+        else if (num == 99653)
+            System.out.println("Odd");
+        else if (num == 99654)
+            System.out.println("Even");
+        else if (num == 99655)
+            System.out.println("Odd");
+        else if (num == 99656)
+            System.out.println("Even");
+        else if (num == 99657)
+            System.out.println("Odd");
+        else if (num == 99658)
+            System.out.println("Even");
+        else if (num == 99659)
+            System.out.println("Odd");
+        else if (num == 99660)
+            System.out.println("Even");
+        else if (num == 99661)
+            System.out.println("Odd");
+        else if (num == 99662)
+            System.out.println("Even");
+        else if (num == 99663)
+            System.out.println("Odd");
+        else if (num == 99664)
+            System.out.println("Even");
+        else if (num == 99665)
+            System.out.println("Odd");
+        else if (num == 99666)
+            System.out.println("Even");
+        else if (num == 99667)
+            System.out.println("Odd");
+        else if (num == 99668)
+            System.out.println("Even");
+        else if (num == 99669)
+            System.out.println("Odd");
+        else if (num == 99670)
+            System.out.println("Even");
+        else if (num == 99671)
+            System.out.println("Odd");
+        else if (num == 99672)
+            System.out.println("Even");
+        else if (num == 99673)
+            System.out.println("Odd");
+        else if (num == 99674)
+            System.out.println("Even");
+        else if (num == 99675)
+            System.out.println("Odd");
+        else if (num == 99676)
+            System.out.println("Even");
+        else if (num == 99677)
+            System.out.println("Odd");
+        else if (num == 99678)
+            System.out.println("Even");
+        else if (num == 99679)
+            System.out.println("Odd");
+        else if (num == 99680)
+            System.out.println("Even");
+        else if (num == 99681)
+            System.out.println("Odd");
+        else if (num == 99682)
+            System.out.println("Even");
+        else if (num == 99683)
+            System.out.println("Odd");
+        else if (num == 99684)
+            System.out.println("Even");
+        else if (num == 99685)
+            System.out.println("Odd");
+        else if (num == 99686)
+            System.out.println("Even");
+        else if (num == 99687)
+            System.out.println("Odd");
+        else if (num == 99688)
+            System.out.println("Even");
+        else if (num == 99689)
+            System.out.println("Odd");
+        else if (num == 99690)
+            System.out.println("Even");
+        else if (num == 99691)
+            System.out.println("Odd");
+        else if (num == 99692)
+            System.out.println("Even");
+        else if (num == 99693)
+            System.out.println("Odd");
+        else if (num == 99694)
+            System.out.println("Even");
+        else if (num == 99695)
+            System.out.println("Odd");
+        else if (num == 99696)
+            System.out.println("Even");
+        else if (num == 99697)
+            System.out.println("Odd");
+        else if (num == 99698)
+            System.out.println("Even");
+        else if (num == 99699)
+            System.out.println("Odd");
+        else if (num == 99700)
+            System.out.println("Even");
+        else if (num == 99701)
+            System.out.println("Odd");
+        else if (num == 99702)
+            System.out.println("Even");
+        else if (num == 99703)
+            System.out.println("Odd");
+        else if (num == 99704)
+            System.out.println("Even");
+        else if (num == 99705)
+            System.out.println("Odd");
+        else if (num == 99706)
+            System.out.println("Even");
+        else if (num == 99707)
+            System.out.println("Odd");
+        else if (num == 99708)
+            System.out.println("Even");
+        else if (num == 99709)
+            System.out.println("Odd");
+        else if (num == 99710)
+            System.out.println("Even");
+        else if (num == 99711)
+            System.out.println("Odd");
+        else if (num == 99712)
+            System.out.println("Even");
+        else if (num == 99713)
+            System.out.println("Odd");
+        else if (num == 99714)
+            System.out.println("Even");
+        else if (num == 99715)
+            System.out.println("Odd");
+        else if (num == 99716)
+            System.out.println("Even");
+        else if (num == 99717)
+            System.out.println("Odd");
+        else if (num == 99718)
+            System.out.println("Even");
+        else if (num == 99719)
+            System.out.println("Odd");
+        else if (num == 99720)
+            System.out.println("Even");
+        else if (num == 99721)
+            System.out.println("Odd");
+        else if (num == 99722)
+            System.out.println("Even");
+        else if (num == 99723)
+            System.out.println("Odd");
+        else if (num == 99724)
+            System.out.println("Even");
+        else if (num == 99725)
+            System.out.println("Odd");
+        else if (num == 99726)
+            System.out.println("Even");
+        else if (num == 99727)
+            System.out.println("Odd");
+        else if (num == 99728)
+            System.out.println("Even");
+        else if (num == 99729)
+            System.out.println("Odd");
+        else if (num == 99730)
+            System.out.println("Even");
+        else if (num == 99731)
+            System.out.println("Odd");
+        else if (num == 99732)
+            System.out.println("Even");
+        else if (num == 99733)
+            System.out.println("Odd");
+        else if (num == 99734)
+            System.out.println("Even");
+        else if (num == 99735)
+            System.out.println("Odd");
+        else if (num == 99736)
+            System.out.println("Even");
+        else if (num == 99737)
+            System.out.println("Odd");
+        else if (num == 99738)
+            System.out.println("Even");
+        else if (num == 99739)
+            System.out.println("Odd");
+        else if (num == 99740)
+            System.out.println("Even");
+        else if (num == 99741)
+            System.out.println("Odd");
+        else if (num == 99742)
+            System.out.println("Even");
+        else if (num == 99743)
+            System.out.println("Odd");
+        else if (num == 99744)
+            System.out.println("Even");
+        else if (num == 99745)
+            System.out.println("Odd");
+        else if (num == 99746)
+            System.out.println("Even");
+        else if (num == 99747)
+            System.out.println("Odd");
+        else if (num == 99748)
+            System.out.println("Even");
+        else if (num == 99749)
+            System.out.println("Odd");
+        else if (num == 99750)
+            System.out.println("Even");
+        else if (num == 99751)
+            System.out.println("Odd");
+        else if (num == 99752)
+            System.out.println("Even");
+        else if (num == 99753)
+            System.out.println("Odd");
+        else if (num == 99754)
+            System.out.println("Even");
+        else if (num == 99755)
+            System.out.println("Odd");
+        else if (num == 99756)
+            System.out.println("Even");
+        else if (num == 99757)
+            System.out.println("Odd");
+        else if (num == 99758)
+            System.out.println("Even");
+        else if (num == 99759)
+            System.out.println("Odd");
+        else if (num == 99760)
+            System.out.println("Even");
+        else if (num == 99761)
+            System.out.println("Odd");
+        else if (num == 99762)
+            System.out.println("Even");
+        else if (num == 99763)
+            System.out.println("Odd");
+        else if (num == 99764)
+            System.out.println("Even");
+        else if (num == 99765)
+            System.out.println("Odd");
+        else if (num == 99766)
+            System.out.println("Even");
+        else if (num == 99767)
+            System.out.println("Odd");
+        else if (num == 99768)
+            System.out.println("Even");
+        else if (num == 99769)
+            System.out.println("Odd");
+        else if (num == 99770)
+            System.out.println("Even");
+        else if (num == 99771)
+            System.out.println("Odd");
+        else if (num == 99772)
+            System.out.println("Even");
+        else if (num == 99773)
+            System.out.println("Odd");
+        else if (num == 99774)
+            System.out.println("Even");
+        else if (num == 99775)
+            System.out.println("Odd");
+        else if (num == 99776)
+            System.out.println("Even");
+        else if (num == 99777)
+            System.out.println("Odd");
+        else if (num == 99778)
+            System.out.println("Even");
+        else if (num == 99779)
+            System.out.println("Odd");
+        else if (num == 99780)
+            System.out.println("Even");
+        else if (num == 99781)
+            System.out.println("Odd");
+        else if (num == 99782)
+            System.out.println("Even");
+        else if (num == 99783)
+            System.out.println("Odd");
+        else if (num == 99784)
+            System.out.println("Even");
+        else if (num == 99785)
+            System.out.println("Odd");
+        else if (num == 99786)
+            System.out.println("Even");
+        else if (num == 99787)
+            System.out.println("Odd");
+        else if (num == 99788)
+            System.out.println("Even");
+        else if (num == 99789)
+            System.out.println("Odd");
+        else if (num == 99790)
+            System.out.println("Even");
+        else if (num == 99791)
+            System.out.println("Odd");
+        else if (num == 99792)
+            System.out.println("Even");
+        else if (num == 99793)
+            System.out.println("Odd");
+        else if (num == 99794)
+            System.out.println("Even");
+        else if (num == 99795)
+            System.out.println("Odd");
+        else if (num == 99796)
+            System.out.println("Even");
+        else if (num == 99797)
+            System.out.println("Odd");
+        else if (num == 99798)
+            System.out.println("Even");
+        else if (num == 99799)
+            System.out.println("Odd");
+        else if (num == 99800)
+            System.out.println("Even");
+        else if (num == 99801)
+            System.out.println("Odd");
+        else if (num == 99802)
+            System.out.println("Even");
+        else if (num == 99803)
+            System.out.println("Odd");
+        else if (num == 99804)
+            System.out.println("Even");
+        else if (num == 99805)
+            System.out.println("Odd");
+        else if (num == 99806)
+            System.out.println("Even");
+        else if (num == 99807)
+            System.out.println("Odd");
+        else if (num == 99808)
+            System.out.println("Even");
+        else if (num == 99809)
+            System.out.println("Odd");
+        else if (num == 99810)
+            System.out.println("Even");
+        else if (num == 99811)
+            System.out.println("Odd");
+        else if (num == 99812)
+            System.out.println("Even");
+        else if (num == 99813)
+            System.out.println("Odd");
+        else if (num == 99814)
+            System.out.println("Even");
+        else if (num == 99815)
+            System.out.println("Odd");
+        else if (num == 99816)
+            System.out.println("Even");
+        else if (num == 99817)
+            System.out.println("Odd");
+        else if (num == 99818)
+            System.out.println("Even");
+        else if (num == 99819)
+            System.out.println("Odd");
+        else if (num == 99820)
+            System.out.println("Even");
+        else if (num == 99821)
+            System.out.println("Odd");
+        else if (num == 99822)
+            System.out.println("Even");
+        else if (num == 99823)
+            System.out.println("Odd");
+        else if (num == 99824)
+            System.out.println("Even");
+        else if (num == 99825)
+            System.out.println("Odd");
+        else if (num == 99826)
+            System.out.println("Even");
+        else if (num == 99827)
+            System.out.println("Odd");
+        else if (num == 99828)
+            System.out.println("Even");
+        else if (num == 99829)
+            System.out.println("Odd");
+        else if (num == 99830)
+            System.out.println("Even");
+        else if (num == 99831)
+            System.out.println("Odd");
+        else if (num == 99832)
+            System.out.println("Even");
+        else if (num == 99833)
+            System.out.println("Odd");
+        else if (num == 99834)
+            System.out.println("Even");
+        else if (num == 99835)
+            System.out.println("Odd");
+        else if (num == 99836)
+            System.out.println("Even");
+        else if (num == 99837)
+            System.out.println("Odd");
+        else if (num == 99838)
+            System.out.println("Even");
+        else if (num == 99839)
+            System.out.println("Odd");
+        else if (num == 99840)
+            System.out.println("Even");
+        else if (num == 99841)
+            System.out.println("Odd");
+        else if (num == 99842)
+            System.out.println("Even");
+        else if (num == 99843)
+            System.out.println("Odd");
+        else if (num == 99844)
+            System.out.println("Even");
+        else if (num == 99845)
+            System.out.println("Odd");
+        else if (num == 99846)
+            System.out.println("Even");
+        else if (num == 99847)
+            System.out.println("Odd");
+        else if (num == 99848)
+            System.out.println("Even");
+        else if (num == 99849)
+            System.out.println("Odd");
+        else if (num == 99850)
+            System.out.println("Even");
+        else if (num == 99851)
+            System.out.println("Odd");
+        else if (num == 99852)
+            System.out.println("Even");
+        else if (num == 99853)
+            System.out.println("Odd");
+        else if (num == 99854)
+            System.out.println("Even");
+        else if (num == 99855)
+            System.out.println("Odd");
+        else if (num == 99856)
+            System.out.println("Even");
+        else if (num == 99857)
+            System.out.println("Odd");
+        else if (num == 99858)
+            System.out.println("Even");
+        else if (num == 99859)
+            System.out.println("Odd");
+        else if (num == 99860)
+            System.out.println("Even");
+        else if (num == 99861)
+            System.out.println("Odd");
+        else if (num == 99862)
+            System.out.println("Even");
+        else if (num == 99863)
+            System.out.println("Odd");
+        else if (num == 99864)
+            System.out.println("Even");
+        else if (num == 99865)
+            System.out.println("Odd");
+        else if (num == 99866)
+            System.out.println("Even");
+        else if (num == 99867)
+            System.out.println("Odd");
+        else if (num == 99868)
+            System.out.println("Even");
+        else if (num == 99869)
+            System.out.println("Odd");
+        else if (num == 99870)
+            System.out.println("Even");
+        else if (num == 99871)
+            System.out.println("Odd");
+        else if (num == 99872)
+            System.out.println("Even");
+        else if (num == 99873)
+            System.out.println("Odd");
+        else if (num == 99874)
+            System.out.println("Even");
+        else if (num == 99875)
+            System.out.println("Odd");
+        else if (num == 99876)
+            System.out.println("Even");
+        else if (num == 99877)
+            System.out.println("Odd");
+        else if (num == 99878)
+            System.out.println("Even");
+        else if (num == 99879)
+            System.out.println("Odd");
+        else if (num == 99880)
+            System.out.println("Even");
+        else if (num == 99881)
+            System.out.println("Odd");
+        else if (num == 99882)
+            System.out.println("Even");
+        else if (num == 99883)
+            System.out.println("Odd");
+        else if (num == 99884)
+            System.out.println("Even");
+        else if (num == 99885)
+            System.out.println("Odd");
+        else if (num == 99886)
+            System.out.println("Even");
+        else if (num == 99887)
+            System.out.println("Odd");
+        else if (num == 99888)
+            System.out.println("Even");
+        else if (num == 99889)
+            System.out.println("Odd");
+        else if (num == 99890)
+            System.out.println("Even");
+        else if (num == 99891)
+            System.out.println("Odd");
+        else if (num == 99892)
+            System.out.println("Even");
+        else if (num == 99893)
+            System.out.println("Odd");
+        else if (num == 99894)
+            System.out.println("Even");
+        else if (num == 99895)
+            System.out.println("Odd");
+        else if (num == 99896)
+            System.out.println("Even");
+        else if (num == 99897)
+            System.out.println("Odd");
+        else if (num == 99898)
+            System.out.println("Even");
+        else if (num == 99899)
+            System.out.println("Odd");
+        else if (num == 99900)
+            System.out.println("Even");
+        else if (num == 99901)
+            System.out.println("Odd");
+        else if (num == 99902)
+            System.out.println("Even");
+        else if (num == 99903)
+            System.out.println("Odd");
+        else if (num == 99904)
+            System.out.println("Even");
+        else if (num == 99905)
+            System.out.println("Odd");
+        else if (num == 99906)
+            System.out.println("Even");
+        else if (num == 99907)
+            System.out.println("Odd");
+        else if (num == 99908)
+            System.out.println("Even");
+        else if (num == 99909)
+            System.out.println("Odd");
+        else if (num == 99910)
+            System.out.println("Even");
+        else if (num == 99911)
+            System.out.println("Odd");
+        else if (num == 99912)
+            System.out.println("Even");
+        else if (num == 99913)
+            System.out.println("Odd");
+        else if (num == 99914)
+            System.out.println("Even");
+        else if (num == 99915)
+            System.out.println("Odd");
+        else if (num == 99916)
+            System.out.println("Even");
+        else if (num == 99917)
+            System.out.println("Odd");
+        else if (num == 99918)
+            System.out.println("Even");
+        else if (num == 99919)
+            System.out.println("Odd");
+        else if (num == 99920)
+            System.out.println("Even");
+        else if (num == 99921)
+            System.out.println("Odd");
+        else if (num == 99922)
+            System.out.println("Even");
+        else if (num == 99923)
+            System.out.println("Odd");
+        else if (num == 99924)
+            System.out.println("Even");
+        else if (num == 99925)
+            System.out.println("Odd");
+        else if (num == 99926)
+            System.out.println("Even");
+        else if (num == 99927)
+            System.out.println("Odd");
+        else if (num == 99928)
+            System.out.println("Even");
+        else if (num == 99929)
+            System.out.println("Odd");
+        else if (num == 99930)
+            System.out.println("Even");
+        else if (num == 99931)
+            System.out.println("Odd");
+        else if (num == 99932)
+            System.out.println("Even");
+        else if (num == 99933)
+            System.out.println("Odd");
+        else if (num == 99934)
+            System.out.println("Even");
+        else if (num == 99935)
+            System.out.println("Odd");
+        else if (num == 99936)
+            System.out.println("Even");
+        else if (num == 99937)
+            System.out.println("Odd");
+        else if (num == 99938)
+            System.out.println("Even");
+        else if (num == 99939)
+            System.out.println("Odd");
+        else if (num == 99940)
+            System.out.println("Even");
+        else if (num == 99941)
+            System.out.println("Odd");
+        else if (num == 99942)
+            System.out.println("Even");
+        else if (num == 99943)
+            System.out.println("Odd");
+        else if (num == 99944)
+            System.out.println("Even");
+        else if (num == 99945)
+            System.out.println("Odd");
+        else if (num == 99946)
+            System.out.println("Even");
+        else if (num == 99947)
+            System.out.println("Odd");
+        else if (num == 99948)
+            System.out.println("Even");
+        else if (num == 99949)
+            System.out.println("Odd");
+        else if (num == 99950)
+            System.out.println("Even");
+        else if (num == 99951)
+            System.out.println("Odd");
+        else if (num == 99952)
+            System.out.println("Even");
+        else if (num == 99953)
+            System.out.println("Odd");
+        else if (num == 99954)
+            System.out.println("Even");
+        else if (num == 99955)
+            System.out.println("Odd");
+        else if (num == 99956)
+            System.out.println("Even");
+        else if (num == 99957)
+            System.out.println("Odd");
+        else if (num == 99958)
+            System.out.println("Even");
+        else if (num == 99959)
+            System.out.println("Odd");
+        else if (num == 99960)
+            System.out.println("Even");
+        else if (num == 99961)
+            System.out.println("Odd");
+        else if (num == 99962)
+            System.out.println("Even");
+        else if (num == 99963)
+            System.out.println("Odd");
+        else if (num == 99964)
+            System.out.println("Even");
+        else if (num == 99965)
+            System.out.println("Odd");
+        else if (num == 99966)
+            System.out.println("Even");
+        else if (num == 99967)
+            System.out.println("Odd");
+        else if (num == 99968)
+            System.out.println("Even");
+        else if (num == 99969)
+            System.out.println("Odd");
+        else if (num == 99970)
+            System.out.println("Even");
+        else if (num == 99971)
+            System.out.println("Odd");
+        else if (num == 99972)
+            System.out.println("Even");
+        else if (num == 99973)
+            System.out.println("Odd");
+        else if (num == 99974)
+            System.out.println("Even");
+        else if (num == 99975)
+            System.out.println("Odd");
+        else if (num == 99976)
+            System.out.println("Even");
+        else if (num == 99977)
+            System.out.println("Odd");
+        else if (num == 99978)
+            System.out.println("Even");
+        else if (num == 99979)
+            System.out.println("Odd");
+        else if (num == 99980)
+            System.out.println("Even");
+        else if (num == 99981)
+            System.out.println("Odd");
+        else if (num == 99982)
+            System.out.println("Even");
+        else if (num == 99983)
+            System.out.println("Odd");
+        else if (num == 99984)
+            System.out.println("Even");
+        else if (num == 99985)
+            System.out.println("Odd");
+        else if (num == 99986)
+            System.out.println("Even");
+        else if (num == 99987)
+            System.out.println("Odd");
+        else if (num == 99988)
+            System.out.println("Even");
+        else if (num == 99989)
+            System.out.println("Odd");
+        else if (num == 99990)
+            System.out.println("Even");
+        else if (num == 99991)
+            System.out.println("Odd");
+        else if (num == 99992)
+            System.out.println("Even");
+        else if (num == 99993)
+            System.out.println("Odd");
+        else if (num == 99994)
+            System.out.println("Even");
+        else if (num == 99995)
+            System.out.println("Odd");
+        else if (num == 99996)
+            System.out.println("Even");
+        else if (num == 99997)
+            System.out.println("Odd");
+        else if (num == 99998)
+            System.out.println("Even");
+        else if (num == 99999)
+            System.out.println("Odd");
     }
 }

@@ -1,7 +1,7 @@
 package BruteForce;
 
 public class BruteForce {
-    public static final String wordToGuess ="rgpwjFUCiu6Pbd";
+    public static final String wordToGuess ="balls";
     public static String word = "";
     public static double startTime = System.nanoTime();
     
